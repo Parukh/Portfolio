@@ -12,7 +12,7 @@
     font-size: 1rem;
     font-weight: 600;
     cursor: pointer;
-    background-color: aqua;
+    background-color: red;
     color: black;
     text-transform: uppercase;
     margin-top: 2rem;
@@ -20,8 +20,8 @@
 }
 .btn:hover{
     background-color: transparent;
-    border-color: aqua;
-    color: aqua;
+    border-color: red;
+    color: red;
 
 }
 .btn2{
@@ -30,15 +30,15 @@
     font-weight: 600;
     cursor: pointer;
     background-color: transparent;
-    color:aqua;
+    color:red;
     text-transform: uppercase;
-    border-color: aqua;
+    border-color: red;
     margin-left: 3rem ;
     border-radius: 30px;
     margin-bottom: 50px;
 }
 .btn2:hover{
-    background-color: aqua;
+    background-color: red;
     color: black;
 }
 
