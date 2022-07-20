@@ -19,7 +19,7 @@ header nav .left a{
     margin-right: 2rem;
 }
 header nav .left a:hover{
-    color: aqua;
+    color: red;
 }
 header nav{
     padding: 2rem 0;
@@ -34,7 +34,7 @@ header nav{
 }
 .hero .right h6{
     font-size:1.6rem;
-    color: aqua;
+    color: red;
     margin-bottom: 1rem;
     margin-left: 3rem;
 }
@@ -47,7 +47,7 @@ header nav{
     margin-bottom: rem;
 }
 .hero .right h1 span{
-    color: aqua;
+    color: red;
 }
 .hero .left {
     height: 250px;
@@ -67,7 +67,7 @@ section.about h1{
    
 }
 section.about h1 span{
-    color: aqua;
+    color: red;
 
     
 }
