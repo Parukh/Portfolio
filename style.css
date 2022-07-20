@@ -30,7 +30,7 @@ header nav{
     margin:0 auto;
 }
 .hero .right{
-    color: aliceblue;
+    color: red;
 }
 .hero .right h6{
     font-size:1.6rem;
@@ -86,7 +86,7 @@ section.about .image3{
 }
 section.freelancer{
     text-align: center;
-    color: aliceblue;
+    color: red;
    
     
 }
