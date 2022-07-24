@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bgimg{
+    background-image: url(./background.jpg);
+    height: 450px;
+}
+    
+.header{
+    height: 510px;
+}
+
+
+.navigationbar{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(163, 163, 163);
+    
+}
+.listitem{
+    float: left;
+    margin: 18px;
+    margin-left: 50px;
+}
+.profilepic{
+    height: 50px;
+    width: 50px;
+    border: 2px solid white;
+    border-radius: 50%;
+    float:right;
+    margin: 4px;
+    margin-right: 25px;
+}
+.listlink{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+.firstimage{
+    margin-top: 100px;
+    height: 300px;
+    width: 500px;
+    float: left;
+    
+    margin: 60px;
+}
+.headercontent{
+
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+    
+}
+.headercontent h1{
+    color: white;
+    font-size: 100px;
+}
+.headercontent h3{
+    color: rgb(12, 29, 74);
+    font-size: 60px;
+}
+.cv{
+    padding: 5px 8px;
+    font-size: 25px;
+    font-weight: 600;
+    background-color: rgb(12, 29, 74);
+    color: white;
+    text-transform: uppercase;
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+.cv:hover{
+    background-color: transparent;
+    border-color: rgb(12, 29, 74);
+    color: rgb(12, 29, 74);
+
+}
+
+.bodycontent{
+    background-color: rgb(218, 213, 213);
+    
+}
+.aboutsection{
+    display: flex;
+    flex-direction: row;
+}
+.contentpic{
+    height: 25%;
+    width: 25%;
+    margin-left: 110px;
+    border:white 4px solid;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.aboutme{
+    width: 800px;
+    
+}
+.aboutdiv{
+    margin-left: 100px;
+    margin-top: 120px;
+}
+.hobbies{
+    margin-top: 100px;
+    
+}
+.cricket{
+    height:30%;
+    width: 30%;
+    margin-left: 110px;
+    
+}
+.cricketp{
+    width: 800px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.sketching{
+    height:30%;
+    width: 30%;
+    margin-left: 110px;
+    
+}
+.sketchingp{
+    width: 800px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.logo{
+    height:30%;
+    width: 30%;
+    margin-left: 110px;
+    
+}
+.logop{
+    width: 800px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.icons{
+    height: 5%;
+    width: 5%;
+    border-radius: 100%;
+    margin-top: 200px;
+
+    
+}
+.contactme{
+    background-image: url(./background.jpg);
+}
+marquee{
+    color: white;
+    margin-top: 30px;
+}
+.images:hover{
+    transform:scale(1.2,1.2);
+    transition: transform 2s;
+}
+.name:hover{
+    transform:scale(1.2,1.2);
+    transition: transform 2s;
+}
